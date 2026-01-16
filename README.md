@@ -67,3 +67,25 @@ Each case includes:
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🧠 Skills Gained
+- Clinical nutrition assessment  
+- Diet planning & counselling  
+- Patient communication  
+- Hospital documentation  
+- Practical application of nutrition knowledge  
+
+---
+
+## ⚠️ Disclaimer
+This project is submitted **for academic purposes only**.  
+All patient-related information is used strictly for **educational learning**.
+
+---
+
+## 📬 Contact
+**Sana Sajid**  
+(Add your email or LinkedIn if you want)
+
