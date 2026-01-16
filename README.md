@@ -67,6 +67,13 @@ Each case includes:
 ---
 
 ## 📂 Repository Structure
+📁 Repository Structure
+├── data/
+├── reports/
+│   └── FYP_Report.pdf
+├── code/
+└── README.md
+
 
 ---
 
