@@ -87,5 +87,5 @@ All patient-related information is used strictly for **educational learning**.
 
 ## 📬 Contact
 **Sana Sajid**  
-(Add your email or LinkedIn if you want)
+(sana.sajid547@gmail.com)
 
