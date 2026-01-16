@@ -16,7 +16,7 @@ assessment, diet planning, and Medical Nutrition Therapy (MNT) across multiple h
 - **Name:** Sana Sajid  
 - **Registration No:** 21-ARID-3713  
 - **Degree Program:** BS Human Nutrition & Dietetics  
-- **Institute:** Barani Institute of Sciences, Sahiwal Campus  
+- **Institute:** Arid Agriculture University Rawalpindi, Sahiwal Campus 
 - **Year:** 2025  
 
 ---
